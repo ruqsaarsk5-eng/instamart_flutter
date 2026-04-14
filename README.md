@@ -33,4 +33,4 @@ This project was built to strengthen Flutter development skills and understand t
 
 ## 👩‍💻 Author
 
-**Sidra Shaikh**
+**Ruqsaar Shaikh**
